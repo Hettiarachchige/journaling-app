@@ -24,7 +24,7 @@ A simple and beautiful journaling app where users can track thoughts, moods, and
 | **AsyncStorage**                   | Local persistent storage for journal entries |
 | **React Navigation**               | Tab and stack-based navigation |
 | **react-native-chart-kit**         | Rendering mood and frequency charts |
-| **react-native-uuid**              | Generating unique IDs for journal entries |
+
 
 ---
 
